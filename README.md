@@ -1,0 +1,2 @@
+# pokedex
+EM CRIAÇÃO
